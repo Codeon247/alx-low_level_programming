@@ -3,9 +3,9 @@
 /**
  * main -  prints all possible combinations of single-digit numbers
  *  
- *    Description: All your code should be in the main function
+ * Description: All your code should be in the main function
  *     
- *       Return: 0 Always success
+ * Return: 0 Always success
  */
 int main(void)
 {
