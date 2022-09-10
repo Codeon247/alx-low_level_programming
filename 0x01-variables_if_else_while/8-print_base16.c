@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
- *  * main -  prints all the numbers of base 16 in lowercase, followed a new line
- *   *
- *    * Description: All your code should be in the main function
- *     *
- *      * Return: 0 Always success
- *       */
+ * main -  prints all the numbers of base 16 in lowercase, followed a new line
+ * 
+ * Description: All your code should be in the main function
+ * 
+ * Return: 0 Always success
+ */
 int main(void)
 {
 		int num;
