@@ -1,16 +1,12 @@
 #include "main.h"
 #include <stdio.h>
 
-
-
 /**
+ * returns an absolute value of an int
  *
- *  _abs - returns absolute value of an int
+ * @n: this file provides the values needed
  *
- *  @n: integer from which to get an absolute value
- *
- *    Return: Void.
- *
+ * Return: 0;
  */
 
 int _abs(int n)
